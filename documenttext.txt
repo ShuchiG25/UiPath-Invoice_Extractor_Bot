@@ -1,0 +1,31 @@
+Company Name
+
+Your Company Slogan
+
+Street Address City, ST ZIP Code Phone: Phone Fax: Fax
+
+INVOICE
+
+INVOICE #400 DATE: 02/17/2017
+
+TO:                 SHIP TO:         
+Recipient Name      Recipient Name   
+Company Name        Company Name     
+Street Address      Street Address   
+City, ST ZIP Code   City, ST ZIP Code
+Phone: Phone        Phone: Phone     
+
+COMMENTS OR SPECIAL INSTRUCTIONS:
+
+To get started right away, just tap any placeholder text (such as this) and start typing to replace it with your own.
+
+SALESPERSON P.O. NUMBER REQUISITIONER SHIPPED VIA F.O.B. POINT TERMS
+
+Due on receipt
+
+QUANTITY DESCRIPTION UNIT PRICE                    TOTAL
+SUBTOTAL SALES TAX SHIPPING & HANDLING TOTAL DUE        
+
+Make all checks payable to Company Name If you have any questions concerning this invoice, contact Name, phone, email
+
+THANK YOU FOR YOUR BUSINESS!
